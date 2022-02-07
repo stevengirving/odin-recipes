@@ -41,5 +41,5 @@
   ## Credits
   *Special thanks to...*
   
-  Odin Recipes is made in part by Brigitte Powers. 
+  Brigitte Powers for her README Generator
   
