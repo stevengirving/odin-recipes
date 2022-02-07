@@ -9,7 +9,7 @@
   ## Table of Contents
   * [Questions](#questions)
   * [Credits](#credits)
-    ## Questions
+  ## Questions
 
   GitHub: [@stevengirving](https://api.github.com/users/stevengirving)
 
@@ -18,8 +18,8 @@
   can be reached at sgirving@outlook.com. 
   Include the subject line "Odin Recipes SUPPORT".
   
-    ## Credits
+  ## Credits
   *Special thanks to...*
   
-  [@BrigittePowers] for her README Generator
+  [@BrigittePowers](https://api.github.com/users/BrigittePowers) for her README Generator
   
