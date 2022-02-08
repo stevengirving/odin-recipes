@@ -21,5 +21,5 @@
   ## Credits
   *Special thanks to...*
   
-  [@BrigittePowers](https://api.github.com/users/BrigittePowers) for her README Generator
+  [@BrigittePowers](https://github.com/users/BrigittePowers) for her README Generator
   
