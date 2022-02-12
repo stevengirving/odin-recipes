@@ -8,6 +8,7 @@
 img {
     height: auto;
     width: 600px;
+    border-radius: 25%;
 }
 
 h1 {

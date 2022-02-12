@@ -1,0 +1,23 @@
+* {
+    background: lightgrey;
+    font-family: Calibri, "Times New Roman", sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+.recipe {
+    text-align:center;
+    width: 600px;
+    border-style: solid;
+    border-radius: 10%;
+}
+
+img {
+    height: auto;
+    width: 600px;
+    border-radius: 50%;
+}
+
+a {
+    font-size: 50px;
+}
