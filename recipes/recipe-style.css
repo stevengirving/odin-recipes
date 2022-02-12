@@ -1,0 +1,32 @@
+* {
+    background: lightgrey;
+    font-family: Calibri, "Times New Roman", sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+ul {
+    font-weight: bold;
+    width: 500px;
+}
+
+.box {
+    text-align:center;
+    width: 600px;
+    border-style: solid;
+    border-radius: 0%;
+}
+
+li {
+    list-style-position: inside;
+    text-align: justify;
+}
